@@ -1,0 +1,262 @@
+.breadcrumb{
+    background-color: white;
+}
+
+.cuscas{
+    text-align: center;
+    margin-left: 0%;
+}
+
+#outerintro{
+    width:90%;
+}
+
+a  {
+    color: #606060;
+    font-weight: normal;
+}
+
+body{
+    font-family: Verdana;
+    text-align: left;
+}
+
+p {
+    font-size: 12px;
+}
+
+hr {
+   width: 80%;
+
+  /*  border-color: honeydew; */
+}
+
+#Devoteam{
+    margin-top: 2%;
+    margin-left: 10%;
+    width: 15%;
+}
+
+.redcaps {
+    text-transform: capitalize;
+    color: #F8485E;
+    text-align: center;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+#h1intro{
+    text-align: left;
+    margin-top:2%;
+    margin-left: 20%;
+}
+
+#ideaintro{
+    text-align: left;
+    margin-left: 29%;
+}
+
+#outerdiv{
+    margin: 2%;
+    text-align: center;
+}
+
+#bStrat {
+    width: 80%;
+    margin-bottom: 5px;
+
+}
+
+#transGov {
+    width: 79.5%;
+    margin-bottom: 5px;
+    margin-left: 0.5%;
+}
+
+#alignment{
+    width: 55%;
+}
+
+#program{
+    width: 55%;
+    float: left;
+    margin-bottom: 0.3%;
+    margin-left: -0.9%;
+}
+
+#idea{
+    width: 13.5%;
+    float: left;
+    margin-left: 10%;
+}
+
+#benefit{
+    width: 13%;
+    float: right;
+    margin-right: 9.5%;
+    margin-top: -3%;
+}
+
+#scope{
+    width: 8.5%;
+    float: left;
+    margin-top: 0%;
+    margin-left: 0.3%;
+    margin-bottom: 2%;
+}
+
+#design{
+    width: 33%;
+    margin-top: 0%;
+    margin-left: -8%;
+    margin-bottom: 1.1%;
+}
+
+#deploy{
+    margin-top: -10.2%;
+   /* margin-right: 0.3%; */
+    width: 8.5%;
+    margin-bottom: 1.1%;
+    float: right;
+}
+
+#sprintPlan{
+    width: 55%;
+    margin-top: -5%;
+    margin-left: -1%;
+}
+
+#orgCha{
+    width: 80%;
+    margin-top: 0.5%;
+}
+
+#description{
+    margin-top: 2%;
+    width: 70%;
+}
+
+/* Video*/
+#intro{
+    float: right;
+    margin-right: 12%;
+    margin-top: 2%;
+    box-shadow: 30px 30px #F8485E;
+
+}
+.column {
+    float: left;
+    width: 50%;
+}
+
+.column2 {
+    float: left;
+    width: 25%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#redbox{
+    width: 80%;
+    margin: 5% auto;
+    background-color: #F8485E;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    color: white;
+    text-align: center;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#conceptintro{
+    margin: 5%
+}
+
+#customercases{
+    margin: 5%;
+}
+
+#kk{
+    width: 70%;
+    margin-left: 25%;
+}
+#df{
+    width: 70%;
+}
+
+#cuscase{
+    border: solid;
+    background-color: white;
+    border-color:#606060;
+    border-radius: 45px;
+    padding: 10px 45px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana;
+    margin-top: 2%;
+    margin-left: 45%;
+    color: #606060;
+    cursor: pointer;
+}
+
+#ideacase{
+    border: solid;
+    background-color: white;
+    border-color:#606060;
+    border-radius: 45px;
+    padding: 10px 45px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana;
+    margin-top: 2%;
+    margin-left: 5%;
+    color: #606060;
+    cursor: pointer;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}
+
+#idfra {
+    border: solid;
+    background-color: #F8485E;
+    border-color: white;
+    border-radius: 45px;
+    padding: 10px 45px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 4%;
+    color: white;
+    cursor: pointer;
+}
+#dd{
+    height: 300px;
+}
+
+#naviga{
+    width: 80%;
+    margin-left: 10%;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: white;
+    color: #F8485E;
+}
+
+#conintro{
+    text-align: left;
+    margin-left: 20%;
+}
